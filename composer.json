@@ -1,0 +1,14 @@
+{
+    "name": "zf2-boiler-app/app-skeleton",
+    "description": "Skeleton Application",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "skeleton",
+        "zf2"
+    ],
+    "homepage": "https://github.com/zf2-boiler-app/app-skeleton",
+    "minimum-stability" : "dev",
+    "require": {
+        "zf2-boiler-app/app-core": "dev-master"
+    }
+}
